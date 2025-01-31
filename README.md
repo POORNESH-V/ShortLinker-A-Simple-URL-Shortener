@@ -9,7 +9,7 @@ Retrieve the original URL from a shortened link
 Store and manage URL mappings using file handling
 Uses hashing for efficient URL lookup and redirection
 
-# Tech Stack:#
+# Tech Stack: #
 C++
 File Handling
 Hashing
